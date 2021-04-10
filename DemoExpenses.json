@@ -1,0 +1,706 @@
+{
+  "1": {
+    "Date": "Apr 3, 2021",
+    "Item": "Haircut ",
+    "Amount (NZD)": 15.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Haircut",
+    "Payment Type": "Efpos-1234"
+  },
+  "2": {
+    "Date": "Apr 1, 2021",
+    "Item": "Gsuite",
+    "Amount (NZD)": 10.04,
+    "Type": "Freelancing",
+    "Sub-type": "Email Service",
+    "Payment Type": "Credit_card-2345"
+  },
+  "3": {
+    "Date": "Mar 31, 2021",
+    "Item": "Parking taka",
+    "Amount (NZD)": 0.7,
+    "Type": "Daily Expenses",
+    "Sub-type": "Parking",
+    "Payment Type": "Credit_card-1234"
+  },
+  "4": {
+    "Date": "Mar 31, 2021",
+    "Item": "Kebab+drink",
+    "Amount (NZD)": 18.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "5": {
+    "Date": "Mar 29, 2021",
+    "Item": "License Renewal",
+    "Amount (NZD)": 38.2,
+    "Type": "Bills",
+    "Sub-type": "Drivers License",
+    "Payment Type": "Efpos-1234"
+  },
+  "6": {
+    "Date": "Mar 25, 2021",
+    "Item": "Poke bowl",
+    "Amount (NZD)": 13.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "7": {
+    "Date": "Mar 25, 2021",
+    "Item": "Munchie mart",
+    "Amount (NZD)": 10.9,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "8": {
+    "Date": "Mar 22, 2021",
+    "Item": "ACC",
+    "Amount (NZD)": 129.13,
+    "Type": "Bills",
+    "Sub-type": "ACC cover",
+    "Payment Type": "Bank-Transfer-2345"
+  },
+  "9": {
+    "Date": "Mar 21, 2021",
+    "Item": "Eat out",
+    "Amount (NZD)": 16.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "10": {
+    "Date": "Mar 21, 2021",
+    "Item": "Spark overdue",
+    "Amount (NZD)": 116.29,
+    "Type": "Bills",
+    "Sub-type": "Mobile Plan",
+    "Payment Type": "Bank-Transfer-2345"
+  },
+  "11": {
+    "Date": "Mar 21, 2021",
+    "Item": "Spark March bill",
+    "Amount (NZD)": 98.2,
+    "Type": "Bills",
+    "Sub-type": "Mobile Plan",
+    "Payment Type": "Bank-Transfer-2345"
+  },
+  "12": {
+    "Date": "Mar 20, 2021",
+    "Item": "Fuel",
+    "Amount (NZD)": 48.62,
+    "Type": "Bills",
+    "Sub-type": "Fuel",
+    "Payment Type": "Efpos-1234"
+  },
+  "13": {
+    "Date": "Mar 19, 2021",
+    "Item": "Pie+drink",
+    "Amount (NZD)": 5.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "14": {
+    "Date": "Mar 19, 2021",
+    "Item": "Electricity Feb ",
+    "Amount (NZD)": 65.65,
+    "Type": "Bills",
+    "Sub-type": "Electricity Bill",
+    "Payment Type": "Bank_Transfer-1234"
+  },
+  "15": {
+    "Date": "Mar 19, 2021",
+    "Item": "Domain renew",
+    "Amount (NZD)": 40.0,
+    "Type": "Freelancing",
+    "Sub-type": "Domain",
+    "Payment Type": "Credit_card-1234"
+  },
+  "16": {
+    "Date": "Mar 18, 2021",
+    "Item": "Subway",
+    "Amount (NZD)": 5.5,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "17": {
+    "Date": "Mar 17, 2021",
+    "Item": "Slim jeans",
+    "Amount (NZD)": 79.99,
+    "Type": "Daily Expenses",
+    "Sub-type": "Clothing",
+    "Payment Type": "Efpos-1234"
+  },
+  "18": {
+    "Date": "Mar 16, 2021",
+    "Item": "McDonalds",
+    "Amount (NZD)": 14.5,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "19": {
+    "Date": "Mar 14, 2021",
+    "Item": "Fraser's",
+    "Amount (NZD)": 9.8,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "20": {
+    "Date": "Mar 12, 2021",
+    "Item": "Taka Parking",
+    "Amount (NZD)": 8.5,
+    "Type": "Daily Expenses",
+    "Sub-type": "Parking",
+    "Payment Type": "Credit_card-1234"
+  },
+  "21": {
+    "Date": "Mar 12, 2021",
+    "Item": "AF Parking",
+    "Amount (NZD)": 1.95,
+    "Type": "Daily Expenses",
+    "Sub-type": "Parking",
+    "Payment Type": "Credit_card-1234"
+  },
+  "22": {
+    "Date": "Mar 12, 2021",
+    "Item": "Sushi",
+    "Amount (NZD)": 8.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "23": {
+    "Date": "Mar 9, 2021",
+    "Item": "Parking queen st",
+    "Amount (NZD)": 3.66,
+    "Type": "Daily Expenses",
+    "Sub-type": "Parking",
+    "Payment Type": "Credit_card-1234"
+  },
+  "24": {
+    "Date": "Mar 8, 2021",
+    "Item": "Big pizza",
+    "Amount (NZD)": 20.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Spare_coins"
+  },
+  "25": {
+    "Date": "Mar 9, 2021",
+    "Item": "Parking CBD",
+    "Amount (NZD)": 1.5,
+    "Type": "Daily Expenses",
+    "Sub-type": "Parking",
+    "Payment Type": "Credit_card-1234"
+  },
+  "26": {
+    "Date": "Mar 8, 2021",
+    "Item": "Parking Albany",
+    "Amount (NZD)": 0.9,
+    "Type": "Daily Expenses",
+    "Sub-type": "Parking",
+    "Payment Type": "Credit_card-1234"
+  },
+  "27": {
+    "Date": "Mar 8, 2021",
+    "Item": "BP Fuel",
+    "Amount (NZD)": 48.64,
+    "Type": "Daily Expenses",
+    "Sub-type": "Fuel",
+    "Payment Type": "Efpos-1234"
+  },
+  "28": {
+    "Date": "Mar 5, 2021",
+    "Item": "Football club membership",
+    "Amount (NZD)": 20.0,
+    "Type": "Sports",
+    "Sub-type": "UoA-football",
+    "Payment Type": "PayPal-main"
+  },
+  "29": {
+    "Date": "Mar 4, 2021",
+    "Item": "Web cam cover",
+    "Amount (NZD)": 3.65,
+    "Type": "Electronics",
+    "Sub-type": "Laptop Accessories",
+    "Payment Type": "Credit_card-1234"
+  },
+  "30": {
+    "Date": "Mar 3, 2021",
+    "Item": "Laptop keyboard cover",
+    "Amount (NZD)": 6.25,
+    "Type": "Electronics",
+    "Sub-type": "Laptop Accessories",
+    "Payment Type": "Credit_card-1234"
+  },
+  "31": {
+    "Date": "Mar 4, 2021",
+    "Item": "G-Suite fees",
+    "Amount (NZD)": 9.69,
+    "Type": "Freelancing",
+    "Sub-type": "Email Service",
+    "Payment Type": "Credit_card-2345"
+  },
+  "32": {
+    "Date": "Mar 1, 2021",
+    "Item": "Water bill ",
+    "Amount (NZD)": 47.88,
+    "Type": "Bills",
+    "Sub-type": "Water bill",
+    "Payment Type": "Bank_Transfer-1234"
+  },
+  "33": {
+    "Date": "Feb 25, 2021",
+    "Item": "Parking 1hr",
+    "Amount (NZD)": 2.5,
+    "Type": "Daily Expenses",
+    "Sub-type": "Parking",
+    "Payment Type": "Credit_card-1234"
+  },
+  "34": {
+    "Date": "Feb 24, 2021",
+    "Item": "Sauce Katsu",
+    "Amount (NZD)": 13.5,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "35": {
+    "Date": "Feb 21, 2021",
+    "Item": "Burger+chips",
+    "Amount (NZD)": 6.5,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Spare_coins"
+  },
+  "36": {
+    "Date": "Feb 21, 2021",
+    "Item": "Beef+onion Pizza",
+    "Amount (NZD)": 5.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Spare_coins"
+  },
+  "37": {
+    "Date": "Feb 20, 2021",
+    "Item": "Visa fees",
+    "Amount (NZD)": 310.0,
+    "Type": "Visa",
+    "Sub-type": "Visa Application Fee",
+    "Payment Type": "Credit_card-1234"
+  },
+  "38": {
+    "Date": "Feb 19, 2021",
+    "Item": "Haircut",
+    "Amount (NZD)": 15.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Haircut",
+    "Payment Type": "Efpos-1234"
+  },
+  "39": {
+    "Date": "Feb 19, 2021",
+    "Item": "Korean spice",
+    "Amount (NZD)": 16.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Grocery",
+    "Payment Type": "Efpos-1234"
+  },
+  "40": {
+    "Date": "Feb 19, 2021",
+    "Item": "3 apples",
+    "Amount (NZD)": 0.52,
+    "Type": "Daily Expenses",
+    "Sub-type": "Grocery",
+    "Payment Type": "Efpos-1234"
+  },
+  "41": {
+    "Date": "Feb 19, 2021",
+    "Item": "milk",
+    "Amount (NZD)": 2.87,
+    "Type": "Daily Expenses",
+    "Sub-type": "Grocery",
+    "Payment Type": "Efpos-1234"
+  },
+  "42": {
+    "Date": "Feb 17, 2021",
+    "Item": "Swim*10",
+    "Amount (NZD)": 100.0,
+    "Type": "Sports",
+    "Sub-type": "Swim",
+    "Payment Type": "Bank_Transfer-1234"
+  },
+  "43": {
+    "Date": "Feb 18, 2021",
+    "Item": "Eating out",
+    "Amount (NZD)": 72.5,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "44": {
+    "Date": "Feb 18, 2021",
+    "Item": "Taupo Swim ticket",
+    "Amount (NZD)": 64.0,
+    "Type": "Sports",
+    "Sub-type": "Taupo Trip Feb 2021",
+    "Payment Type": "Bank_Transfer-1234"
+  },
+  "45": {
+    "Date": "Feb 15, 2021",
+    "Item": "Fuel",
+    "Amount (NZD)": 50.03,
+    "Type": "Bills",
+    "Sub-type": "Fuel",
+    "Payment Type": "Efpos-1234"
+  },
+  "46": {
+    "Date": "Feb 16, 2021",
+    "Item": "Park'n save Kebab",
+    "Amount (NZD)": 7.49,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "47": {
+    "Date": "Feb 14, 2021",
+    "Item": "Burgerfuel",
+    "Amount (NZD)": 22.3,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234+Cash"
+  },
+  "48": {
+    "Date": "Feb 12, 2021",
+    "Item": "Coffee",
+    "Amount (NZD)": 4.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "49": {
+    "Date": "Feb 9, 2021",
+    "Item": "Surface laptop",
+    "Amount (NZD)": 1199.0,
+    "Type": "Electronics",
+    "Sub-type": "Laptop",
+    "Payment Type": "Efpos-1234"
+  },
+  "50": {
+    "Date": "Feb 8, 2021",
+    "Item": "Coffee chat",
+    "Amount (NZD)": 11.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "51": {
+    "Date": "Feb 4, 2021",
+    "Item": "Pie lunch",
+    "Amount (NZD)": 5.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Cash"
+  },
+  "52": {
+    "Date": "Feb 3, 2021",
+    "Item": "Car rental",
+    "Amount (NZD)": 570.0,
+    "Type": "Travel",
+    "Sub-type": "Car Hire",
+    "Payment Type": "Bank_Transfer-1234"
+  },
+  "53": {
+    "Date": "Feb 1, 2021",
+    "Item": "Observatory entry",
+    "Amount (NZD)": 10.0,
+    "Type": "Travel",
+    "Sub-type": "Nelson Trip Jan 2021",
+    "Payment Type": "Efpos-1234"
+  },
+  "54": {
+    "Date": "Feb 1, 2021",
+    "Item": "Cafe food",
+    "Amount (NZD)": 9.9,
+    "Type": "Travel",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "55": {
+    "Date": "Jan 29, 2021",
+    "Item": "Camping fees",
+    "Amount (NZD)": 30.0,
+    "Type": "Travel",
+    "Sub-type": "Nelson Trip Jan 2021",
+    "Payment Type": "Efpos-1234"
+  },
+  "56": {
+    "Date": "Jan 29, 2021",
+    "Item": "Vegetables",
+    "Amount (NZD)": 8.47,
+    "Type": "Travel",
+    "Sub-type": "Grocery",
+    "Payment Type": "Efpos-1234"
+  },
+  "57": {
+    "Date": "Jan 28, 2021",
+    "Item": "Museum ticket",
+    "Amount (NZD)": 8.0,
+    "Type": "Travel",
+    "Sub-type": "Nelson Trip Jan 2021",
+    "Payment Type": "Efpos-1234"
+  },
+  "58": {
+    "Date": "Jan 26, 2021",
+    "Item": "Matches",
+    "Amount (NZD)": 1.84,
+    "Type": "Travel",
+    "Sub-type": "Camping Kits",
+    "Payment Type": "Efpos-1234"
+  },
+  "59": {
+    "Date": "Jan 26, 2021",
+    "Item": "Onion and carrots",
+    "Amount (NZD)": 7.48,
+    "Type": "Travel",
+    "Sub-type": "Grocery",
+    "Payment Type": "Efpos-1234"
+  },
+  "60": {
+    "Date": "Jan 26, 2021",
+    "Item": "All food",
+    "Amount (NZD)": 106.69,
+    "Type": "Travel",
+    "Sub-type": "Grocery",
+    "Payment Type": "Efpos-1234"
+  },
+  "61": {
+    "Date": "Jan 26, 2021",
+    "Item": "Camping stick",
+    "Amount (NZD)": 10.48,
+    "Type": "Travel",
+    "Sub-type": "Camping Kits",
+    "Payment Type": "Efpos-1234"
+  },
+  "62": {
+    "Date": "Jan 26, 2021",
+    "Item": "2 bottles water",
+    "Amount (NZD)": 11.58,
+    "Type": "Travel",
+    "Sub-type": "Grocery",
+    "Payment Type": "Efpos-1234"
+  },
+  "63": {
+    "Date": "Jan 25, 2021",
+    "Item": "Batteries",
+    "Amount (NZD)": 19.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Camping Kits",
+    "Payment Type": "Efpos-1234"
+  },
+  "64": {
+    "Date": "Jan 25, 2021",
+    "Item": "Camping kits ",
+    "Amount (NZD)": 56.0,
+    "Type": "Travel",
+    "Sub-type": "Camping Kits",
+    "Payment Type": "Efpos-1234"
+  },
+  "65": {
+    "Date": "Jan 25, 2021",
+    "Item": "Phone case",
+    "Amount (NZD)": 39.99,
+    "Type": "Electronics",
+    "Sub-type": "Phone Accessories",
+    "Payment Type": "Efpos-1234"
+  },
+  "66": {
+    "Date": "Jan 22, 2021",
+    "Item": "Checked baggage AKL-NLS",
+    "Amount (NZD)": 19.0,
+    "Type": "Travel",
+    "Sub-type": "Flights",
+    "Payment Type": "Credit_card-1234"
+  },
+  "67": {
+    "Date": "Jan 22, 2021",
+    "Item": "Checked baggage NLS-AKL",
+    "Amount (NZD)": 19.0,
+    "Type": "Travel",
+    "Sub-type": "Flights",
+    "Payment Type": "Credit_card-1234"
+  },
+  "68": {
+    "Date": "Jan 22, 2021",
+    "Item": "Japanese don",
+    "Amount (NZD)": 13.8,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "69": {
+    "Date": "Jan 22, 2021",
+    "Item": "Beer",
+    "Amount (NZD)": 4.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "70": {
+    "Date": "Jan 20, 2021",
+    "Item": "Bakery lunch",
+    "Amount (NZD)": 2.19,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "71": {
+    "Date": "Jan 20, 2021",
+    "Item": "Bakery lunch",
+    "Amount (NZD)": 4.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "72": {
+    "Date": "Jan 18, 2021",
+    "Item": "Event ticket",
+    "Amount (NZD)": 90.0,
+    "Type": "Travel",
+    "Sub-type": "Nelson Trip Jan 2021",
+    "Payment Type": "Bank_Transfer-1234"
+  },
+  "73": {
+    "Date": "Jan 17, 2021",
+    "Item": "Flights to Auckland",
+    "Amount (NZD)": 168.0,
+    "Type": "Travel",
+    "Sub-type": "Flights",
+    "Payment Type": "Credit_card-1234"
+  },
+  "74": {
+    "Date": "Jan 17, 2021",
+    "Item": "Flights to Nelson",
+    "Amount (NZD)": 278.0,
+    "Type": "Travel",
+    "Sub-type": "Flights",
+    "Payment Type": "Credit_card-1234"
+  },
+  "75": {
+    "Date": "Jan 18, 2021",
+    "Item": "Notebook",
+    "Amount (NZD)": 3.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Stationary",
+    "Payment Type": "Efpos-1234"
+  },
+  "76": {
+    "Date": "Jan 19, 2021",
+    "Item": "Burger+chips",
+    "Amount (NZD)": 12.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "77": {
+    "Date": "Jan 15, 2021",
+    "Item": "Pie lunch",
+    "Amount (NZD)": 8.9,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "78": {
+    "Date": "Jan 15, 2021",
+    "Item": "Cafe lunch",
+    "Amount (NZD)": 19.8,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "79": {
+    "Date": "Jan 13, 2021",
+    "Item": "Sushi lunch",
+    "Amount (NZD)": 9.1,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "80": {
+    "Date": "Jan 11, 2021",
+    "Item": "Fuel",
+    "Amount (NZD)": 50.0,
+    "Type": "Bills",
+    "Sub-type": "Fuel",
+    "Payment Type": "Efpos-1234"
+  },
+  "81": {
+    "Date": "Jan 8, 2021",
+    "Item": "Water bill",
+    "Amount (NZD)": 60.0,
+    "Type": "Bills",
+    "Sub-type": "Water bill",
+    "Payment Type": "Bank_Transfer-1234"
+  },
+  "82": {
+    "Date": "Jan 8, 2021",
+    "Item": "Cafe lunch",
+    "Amount (NZD)": 26.7,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "83": {
+    "Date": "Jan 7, 2021",
+    "Item": "Beer",
+    "Amount (NZD)": 8.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "84": {
+    "Date": "Jan 7, 2021",
+    "Item": "Pie+custard",
+    "Amount (NZD)": 7.5,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Efpos-1234"
+  },
+  "85": {
+    "Date": "Jan 7, 2021",
+    "Item": "Haitcut",
+    "Amount (NZD)": 15.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Haircut",
+    "Payment Type": "Efpos-1234"
+  },
+  "86": {
+    "Date": "Jan 5, 2021",
+    "Item": "Beach Shorts",
+    "Amount (NZD)": 16.0,
+    "Type": "Daily Expenses",
+    "Sub-type": "Clothing",
+    "Payment Type": "Efpos-1234"
+  },
+  "87": {
+    "Date": "Jan 6, 2021",
+    "Item": "New World",
+    "Amount (NZD)": 25.49,
+    "Type": "Daily Expenses",
+    "Sub-type": "Grocery",
+    "Payment Type": "Efpos-1234"
+  },
+  "88": {
+    "Date": "Apr 3, 2021",
+    "Item": "Burger+chips",
+    "Amount (NZD)": 6.5,
+    "Type": "Daily Expenses",
+    "Sub-type": "Food",
+    "Payment Type": "Spare_coins"
+  }
+}

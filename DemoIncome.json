@@ -1,0 +1,177 @@
+{
+    "1": {
+        "Date": "5-Apr-21",
+        "Amount (NZD)": 4604.87,
+        "Income Source": "YouTube",
+        "Income Type": "AdSense",
+        "Payment Method": "Direct Debit"
+    },
+    "2": {
+        "Date": "5-Apr-21",
+        "Amount (NZD)": 2839.91,
+        "Income Source": "Google Inc",
+        "Income Type": "Wage",
+        "Payment Method": "Bank Transfer"
+    },
+    "3": {
+        "Date": "1-Apr-21",
+        "Amount (NZD)": 4529.0,
+        "Income Source": "Salesforce",
+        "Income Type": "Commission",
+        "Payment Method": "Bank Transfer"
+    },
+    "4": {
+        "Date": "29-Mar-21",
+        "Amount (NZD)": 2839.91,
+        "Income Source": "Google Inc",
+        "Income Type": "Wage",
+        "Payment Method": "Bank Transfer"
+    },
+    "5": {
+        "Date": "27-Mar-21",
+        "Amount (NZD)": 3028.0,
+        "Income Source": "Udemy",
+        "Income Type": "Online Courses",
+        "Payment Method": "Paypal"
+    },
+    "6": {
+        "Date": "25-Mar-21",
+        "Amount (NZD)": 3002.0,
+        "Income Source": "Salesforce",
+        "Income Type": "Commission",
+        "Payment Method": "Bank Transfer"
+    },
+    "7": {
+        "Date": "23-Mar-21",
+        "Amount (NZD)": 2839.91,
+        "Income Source": "Google Inc",
+        "Income Type": "Wage",
+        "Payment Method": "Bank Transfer"
+    },
+    "8": {
+        "Date": "21-Mar-21",
+        "Amount (NZD)": 5000.0,
+        "Income Source": "Torpedo 7",
+        "Income Type": "Software Consulting",
+        "Payment Method": "Paypal"
+    },
+    "9": {
+        "Date": "18-Mar-21",
+        "Amount (NZD)": 2839.91,
+        "Income Source": "Google Inc",
+        "Income Type": "Wage",
+        "Payment Method": "Bank Transfer"
+    },
+    "10": {
+        "Date": "5-Mar-21",
+        "Amount (NZD)": 3876.98,
+        "Income Source": "YouTube",
+        "Income Type": "AdSense",
+        "Payment Method": "Direct Debit"
+    },
+    "11": {
+        "Date": "26-Feb-21",
+        "Amount (NZD)": 1000.0,
+        "Income Source": "Shopify Partners",
+        "Income Type": "Commission",
+        "Payment Method": "Paypal"
+    },
+    "12": {
+        "Date": "16-Feb-21",
+        "Amount (NZD)": 2839.91,
+        "Income Source": "Google Inc",
+        "Income Type": "Wage",
+        "Payment Method": "Bank Transfer"
+    },
+    "13": {
+        "Date": "9-Feb-21",
+        "Amount (NZD)": 2839.91,
+        "Income Source": "Google Inc",
+        "Income Type": "Wage",
+        "Payment Method": "Bank Transfer"
+    },
+    "14": {
+        "Date": "9-Feb-21",
+        "Amount (NZD)": 5030.75,
+        "Income Source": "Plus500",
+        "Income Type": "Investment Cashout",
+        "Payment Method": "Direct Debit"
+    },
+    "15": {
+        "Date": "5-Feb-21",
+        "Amount (NZD)": 7798.28,
+        "Income Source": "YouTube",
+        "Income Type": "AdSense",
+        "Payment Method": "Direct Debit"
+    },
+    "16": {
+        "Date": "2-Feb-21",
+        "Amount (NZD)": 2839.91,
+        "Income Source": "Google Inc",
+        "Income Type": "Wage",
+        "Payment Method": "Bank Transfer"
+    },
+    "17": {
+        "Date": "30-Jan-21",
+        "Amount (NZD)": 45000.0,
+        "Income Source": "Les Miles NZ",
+        "Income Type": "Software Consulting",
+        "Payment Method": "Direct Debit"
+    },
+    "18": {
+        "Date": "27-Jan-21",
+        "Amount (NZD)": 10040.98,
+        "Income Source": "Plus500",
+        "Income Type": "Investment Cashout",
+        "Payment Method": "Direct Debit"
+    },
+    "19": {
+        "Date": "26-Jan-21",
+        "Amount (NZD)": 2839.91,
+        "Income Source": "Google Inc",
+        "Income Type": "Wage",
+        "Payment Method": "Bank Transfer"
+    },
+    "20": {
+        "Date": "20-Jan-21",
+        "Amount (NZD)": 35000.0,
+        "Income Source": "The Warehouse Group",
+        "Income Type": "Software Consulting",
+        "Payment Method": "Direct Debit"
+    },
+    "21": {
+        "Date": "19-Jan-21",
+        "Amount (NZD)": 2839.91,
+        "Income Source": "Google Inc",
+        "Income Type": "Wage",
+        "Payment Method": "Bank Transfer"
+    },
+    "22": {
+        "Date": "5-Jan-21",
+        "Amount (NZD)": 6150.0,
+        "Income Source": "YouTube",
+        "Income Type": "AdSense",
+        "Payment Method": "Direct Debit"
+    },
+    "23": {
+        "Date": "5-Jan-21",
+        "Amount (NZD)": 2839.91,
+        "Income Source": "Google Inc",
+        "Income Type": "Wage",
+        "Payment Method": "Bank Transfer"
+    },
+    "24": {
+        "Date": "1-Jan-21",
+        "Amount (NZD)": 6840.86,
+        "Income Source": "Plus500",
+        "Income Type": "Investment Cashout",
+        "Payment Method": "Direct Debit"
+    },
+    "25": {
+        "Date": "1-Jan-21",
+        "Amount (NZD)": 2670.0,
+        "Income Source": "Udemy",
+        "Income Type": "Online Courses",
+        "Payment Method": "Paypal"
+    }
+}
